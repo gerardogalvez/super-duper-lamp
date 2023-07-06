@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{689D9C60-2577-4B28-C05E-EFF5B7059F6B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Path Generation/EnemyNavigation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Path Generation/EnemyNavigation.cs" Line="42" Column="24" />
+      <File FileName="Assets/Scripts/Towers/BaseTower.cs" />
+      <File FileName="Assets/Scripts/Towers/SimpleTower.cs" />
+      <File FileName="Assets/Scripts/Towers/BuildMenu.cs" />
+      <File FileName="Assets/Scripts/Towers/TowerInformation.cs" />
+      <File FileName="Assets/Scripts/Towers/NotSoSimpleTower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Buildable.cs" />
+      <File FileName="Assets/Scripts/Path Generation/StageMaker.cs" Line="321" Column="32" />
+      <File FileName="Assets/Scripts/Path.cs" />
+      <File FileName="../../Library/Unity/cache/packages/packages.unity.com/com.unity.render-pipelines.lightweight@3.0.0-preview/LWRP/Shaders/LightweightStandard.shader" />
+      <File FileName="Library/PackageCache/com.unity.multiplayer-hlapi@1.0.4/Editor/Tools/Weaver/AssemblyInfo.cs" />
+      <File FileName="Assets/Scripts/Path Generation/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Path Generation/PathUtilities.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Path Generation/PathGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Path Generation/Randomizer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tower Defense" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Path Generation" expanded="True">
+                  <Node name="EnemyNavigation.cs" selected="True" />
+                </Node>
+                <Node name="Towers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e2edc3ef-9891-4dcf-a28b-3f0176d30041" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gerardogalvez/dev/Tower Defense/Assets/Scripts/Path Generation/Test.cs" relfile="Assets/Scripts/Path Generation/Test.cs" line="186" column="1" />
+      <Breakpoint file="/Users/gerardogalvez/dev/Tower Defense/Assets/Scripts/Towers/BaseTower.cs" relfile="Assets/Scripts/Towers/BaseTower.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
